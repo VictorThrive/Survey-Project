@@ -1,0 +1,55 @@
+project: 
+  type: website
+website: 
+  title: "Bsc Project"
+  
+  page-footer:
+   center: |
+    <span class="container"><strong>Application built by [Victor Arowolo](mailto:iamvictorthrive@gmail.com){target="_blank"}</strong></span>
+   left: |
+    <span class="container"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></span>
+   right: |
+    <span class="container"><strong>[Github Repo](https://github.com/){target="_blank"}</strong></span>
+   background: "#222d32"
+  
+  navbar: 
+    background: "#222d32"
+    foreground: "white"
+    search: false
+    left:
+      - text: "Home"
+        file:  index.qmd
+      - text: "Introduction"
+        file:  introduction.qmd
+      - text: "Dashboard"
+        file:  dashboard.qmd
+      - text: "About Supervisor"
+        file:  about supervisor.qmd
+      - text: "About me"
+        file:  about me.qmd
+      - text: "Project Documentation"
+        file:  documentation.qmd
+    right:
+      - icon: whatsapp
+        href: https://whatsapp.com
+      - icon: twitter
+        href: https://twitter.com/Thrive_001?t=pBpBmsHHMreN2Bj-ulKo7w&s=09
+      - icon: github
+        href: https://github.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/victor-arowolo-472010219
+        
+format:
+  html:
+    theme:
+      light: [cosmo, theme_light_custom.scss]
+      dark: [cosmo, theme_dark_custom.scss]
+    css: styles.css
+    citations-hover: true
+    code-link: true
+    code-fold: show
+    code-tools: false
+    code-block-border-left: "#004E4F"
+    code-copy: true
+    code-block-bg: true
+    code-line-numbers: true
