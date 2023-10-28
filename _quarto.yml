@@ -31,11 +31,11 @@ website:
         file:  documentation.qmd
     right:
       - icon: whatsapp
-        href: https://whatsapp.com
+        href: https://wa.me/+2349124004325
       - icon: twitter
         href: https://twitter.com/Thrive_001?t=pBpBmsHHMreN2Bj-ulKo7w&s=09
       - icon: github
-        href: https://github.com
+        href: https://github.com/victorThrive
       - icon: linkedin
         href: https://www.linkedin.com/in/victor-arowolo-472010219
         
@@ -47,7 +47,7 @@ format:
     css: styles.css
     citations-hover: true
     code-link: true
-    code-fold: show
+    code-fold: true
     code-tools: false
     code-block-border-left: "#004E4F"
     code-copy: true

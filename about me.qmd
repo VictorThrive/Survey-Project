@@ -16,6 +16,6 @@ about:
       text: G-mail
 ---
 
-I am a Statistician currently interning at ARM holding company as an `Investment Operation Analyst`. I have extensive background in statistics and working with varied data sets and using analytics to enable business stakeholders to make informed decisions.
+I am a bilingual statistical programmer currently working at ARM holding company as an **Investment Operation Analyst** (Intern). I have Bachelor of Science degree in statistics and working with varied data sets and using analytics to enable business stakeholders to make informed decisions.
 
-I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using Reticulate, and data visualizations using ggplot, animation and interactivity. I am passionate about Love, Diversity, Equity and Inclusion and lead actionable initiatives and conversations to drive inclusiveness within the data world.
+I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using Reticulate, and data visualizations using ggplot, animation and interactivity. My passion lies in utilizing data to solve real-world problems and empower people to make well-informed decisions based on accurate facts and figures.

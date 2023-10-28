@@ -1,0 +1,16 @@
+{
+  "hash": "acc1f39de18832f88e15a6f96ad2ce13",
+  "result": {
+    "markdown": "---\ntitle: \"Dashboard\"\noutput: \n  html_document:\n    runtime: shiny\n---\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n```\n\nListening on http://127.0.0.1:7102\n```\n:::\n\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "dashboard_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

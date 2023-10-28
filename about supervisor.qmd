@@ -1,0 +1,22 @@
+---
+image: images/Sup2.jpeg
+about: 
+  template: broadside
+  image-width: 15em
+  image-shape: round
+  links: 
+    - icon: whatsapp
+      text: Whatsapp
+      href: https://wa.me/+2348037394875
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/oluwaseun-wale-orojo-ph-d-b971a6198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTWU4rDLMRNS0xpEaqhmOqw%3D%3D
+    - icon: mail
+      text: seunorojo@gmail.com
+---
+
+# Meet My Project Supervisor
+
+### **Oluwaseun WALE-OROJO, (Ph.D).**
+
+A seasoned Statistician, lecturing at the Federal University of Agriculture Abeokuta, Ogun State, Nigeria. Expert in **Sampling Design and Methodology**, a researcher and consultant.

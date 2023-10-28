@@ -1,0 +1,16 @@
+---
+format: 
+  html:
+    css: dashboard.css
+    page-layout: custom
+output:
+  quarto::quarto_document:
+    self_contained: false
+---
+
+
+
+```{=html} 
+ <iframe src="https://ruyvc5-victor-arowolo.shinyapps.io/BscDashboard/"></iframe>
+ 
+```
